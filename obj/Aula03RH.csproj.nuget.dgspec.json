@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ARQ.LESSONS GL\\Aula03RH\\Aula03RH.csproj": {}
+    "D:\\CloneA03GL\\Aula03RH\\Aula03RH.csproj": {}
   },
   "projects": {
-    "D:\\ARQ.LESSONS GL\\Aula03RH\\Aula03RH.csproj": {
+    "D:\\CloneA03GL\\Aula03RH\\Aula03RH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ARQ.LESSONS GL\\Aula03RH\\Aula03RH.csproj",
+        "projectUniqueName": "D:\\CloneA03GL\\Aula03RH\\Aula03RH.csproj",
         "projectName": "Aula03RH",
-        "projectPath": "D:\\ARQ.LESSONS GL\\Aula03RH\\Aula03RH.csproj",
+        "projectPath": "D:\\CloneA03GL\\Aula03RH\\Aula03RH.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "D:\\ARQ.LESSONS GL\\Aula03RH\\obj\\",
+        "outputPath": "D:\\CloneA03GL\\Aula03RH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
